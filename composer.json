@@ -1,0 +1,21 @@
+{
+  "name": "orionpt/m2-language-it",
+  "description": "Italian language package for Magento 2",
+  "type": "magento2-language",
+  "minimum-stability": "stable",
+  "prefer-stable": true,
+  "license": [
+    "MIT"
+  ],
+  "authors": [
+    {
+      "name": "Alvaro Martins",
+      "role": "Leader"
+    }
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
