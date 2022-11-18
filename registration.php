@@ -1,14 +1,12 @@
-
-
 <?php
 /**
- *                     Spanish package
+ *                     Italian package
  *                     NOTICE OF LICENSE
  *
  *                     This source file is subject to the MIT License
  *                     that is bundled with this package in the file LICENSE.txt.
  *
- *                     @package   Spanish
+ *                     @package   Italian
  *                     @copyright Copyright (c) 2020
  */
 
