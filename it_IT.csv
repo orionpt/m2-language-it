@@ -9292,3 +9292,19 @@ Translate,Traduci
 "Please enter a valid year (1900-%1).","Inserisci un anno valido (1900-%1)."
 "Please enter a valid day (1-%1).","Inserisci un giorno valido (1-%1)."
 "Please enter a date from the past.","Inserisci una data del passato."
+Accept Cookies,Accettare cookies,module,Amasty_GdprFrontendUi
+Decline Cookies,Rifiutare cookies,module,Amasty_GdprFrontendUi
+Allow all Cookies,Consenti tutti i cookie,module,Amasty_GdprFrontendUi
+Custom Settings,Impostazioni dei cookie,module,Amasty_GdprFrontendUi
+More Information,Più informazioni,module,Amasty_GdprFrontendUi
+Done,Fatto,module,Amasty_GdprFrontendUi
+Cookie Name,Nome del cookie,module,Amasty_GdprFrontendUi
+Cookie Provider,Fornitore del cookie,module,Amasty_GdprFrontendUi
+Cookie Description,Descrizione del cookie,module,Amasty_GdprFrontendUi
+Cookie Lifetime,Durata del cookie,module,Amasty_GdprFrontendUi
+Cookie Type,Tipo di cookie,module,Amasty_GdprFrontendUi
+Close,Chiudere,module,Amasty_GdprFrontendUi
+Cookie Settings,Impostazioni dei cookie,module,Amasty_GdprFrontendUi
+Allow all,Consenti tutti,module,Amasty_GdprFrontendUi
+Save,Salva,module,Amasty_GdprFrontendUi
+Please select and accept your Cookies Group,Scegliete quali cookie ci permettete di utilizzare,module,Amasty_GdprFrontendUi
